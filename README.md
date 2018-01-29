@@ -4,11 +4,31 @@ title: Brian Weber
 permalink: /readme/
 ---
 
-# insert professionmal headshot of self here
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+{::comment}
+![Picture of Brian Weber](/resources/headshot_full.jpg){: .center}
 # Why are you here?
 * [I am considering employing you](#work-samples)
 * [I want to use your software](#using-my-software)
 * [I want to contribute to one of your projects](#how-to-contribute)
+{:/comment}
+
+
+<div class="container">
+<div class="row">
+<div class="col" markdown="1">
+![Picture of Brian Weber](/resources/headshot_crop.jpg){: .medium}
+</div>
+<div class="col" markdown="1">
+# Why are you here?
+* [I am considering employing you](#work-samples)
+* [I want to use your software](#using-my-software)
+* [I want to contribute to one of your projects](#how-to-contribute)
+</div>
+</div>
+</div>
 
 # Work Samples
 ## BYU prereq crawler
@@ -29,7 +49,7 @@ Unfortunately, releasing commit diffs for this work would require me to reveal t
 
 ![TC Self-Hire Page](/resources/site - temp self-registration.png)
 
-Transitioning from paper processes to our web application would have required the person in charge of hiring to enter every employee's information manually. In order to facilitate this process, I created a page where employees could hire themselves, effectively crowdsourcing this work. This page required the user to log in and then only allowed them to add information about themself.
+Transitioning from paper processes to our web application would have required the person in charge of hiring to enter every employee's information manually. In order to facilitate this process, I created a page where employees could hire themselves, thereby crowdsourcing this work. This page required the user to log in and then only allowed them to add information about themself.
 
 # Using My Software
 You might be interested in checking out my prerequisite crawler for BYU. This enables you to find the prerequisites for a list of BYU courses along with the courses made available by those classes. [Click here for more info,](https://brianweber13.github.io/byu-prereq-crawler/) or you can just [try it out!](https://brianweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
