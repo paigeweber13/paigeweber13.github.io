@@ -3,16 +3,6 @@
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-
-{::comment}
-![Picture of Brian Weber](/resources/headshot_full.jpg){: .center}
-# Why are you here?
-* [I am considering employing you](#work-samples)
-* [I want to use your software](#using-my-software)
-* [I want to contribute to one of your projects](#how-to-contribute)
-{:/comment}
-
-
 <div class="container">
 <div class="row">
 <div class="col" markdown="1">
@@ -32,7 +22,7 @@
 
 # Work Samples
 ## Photos By Hipster
-During the year of 2017, I ran a small photography business. I created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a portfolio to present to potential clients. This website was created using wordpress.
+During the year of 2017, I ran a small photography business. Using wordpress, I created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a portfolio to present to potential clients.
 
 ![Photos By Hipster](/resources/photosbyhipster-homepage.png)
 ## BYU prereq crawler
