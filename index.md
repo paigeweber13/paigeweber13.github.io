@@ -3,6 +3,8 @@
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+### [My Github](https://github.com/rileyweber13)
+
 <div class="container">
 <div class="row">
 <div class="col" markdown="1">
@@ -37,7 +39,7 @@ During the year of 2017, I ran a small photography business. Using WordPress, I 
 
 ![Photos By Hipster](/resources/photosbyhipster-homepage.png)
 ## BYU Flowchart Tool
-At my former university, many departments would offer flowcharts for majors that showed the order in which courses needed to be taken. However useful these charts were, they were often horribly outdated. For a given list of classes, this app automatically determines what prerequisites each course has along with the courses that are made available upon completing that course. [Click here for more info,](https://brianweber13.github.io/byu-prereq-crawler/) or you can just [try it out!](https://brianweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
+At my former university, many departments would offer flowcharts for majors that showed the order in which courses needed to be taken. However useful these charts were, they were often horribly outdated. For a given list of classes, this app automatically determines what prerequisites each course has along with the courses that are made available upon completing that course. [Click here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/) or you can just [try it out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
 ## myCTL
 ![myCTL Home Page](/resources/site - Home Page.png)
 
@@ -63,9 +65,9 @@ After publishing the improved hiring capabilities of our website, I discovered t
 At the Testing Center, employee seniority is determined by the number of fall or winter semesters the employee has worked, and the more senior an employee is, the earlier they will be able to register for shifts. This was done so that those who have worked the longest have first choice of shifts. The day before registration was to open for new employees at the testing center, we discovered that the function that counted the number of semesters an employee has worked included spring and summer terms in its count, instead of only counting fall and winter semesters. The employee designated to make this change had to leave work before finding the bug, so I took over. In less than one hour, I discovered the bug, wrote a fix, and published it to our live website. Turns out whoever had written the code to count semesters had not written any code to differentiate between Fall/Winter and Spring/Summer semesters. What an oversight! My fix can be viewed [here](/resources/code - count semesters worked.png).
 
 # Using My Software
-You might be interested in checking out my prerequisite crawler for BYU. This enables you to find the prerequisites for a list of BYU courses along with the courses made available by those classes. [Click here for more info,](https://brianweber13.github.io/byu-prereq-crawler/) or you can just [try it out!](https://brianweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
+You might be interested in checking out my prerequisite crawler for BYU. This enables you to find the prerequisites for a list of BYU courses along with the courses made available by those classes. [Click here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/) or you can just [try it out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
 
 # How to Contribute
-Look for an open issue, write a fix, and open a pull request. My most active project is currently the [LDS Mission Tracker](https://github.com/brianweber13/mission-tracker).
+Look for an open issue, write a fix, and open a pull request.
 
 <a class="btn btn-success" href="/#" role="button">Back to top</a>
