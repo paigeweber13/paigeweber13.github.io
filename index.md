@@ -6,7 +6,7 @@
 <div class="container">
 <div class="row">
 <div class="col" markdown="1">
-![Picture of Brian Weber](/resources/headshot_crop.jpg){: .medium}
+![Picture of Riley Weber](/resources/headshot_crop.jpg){: .medium}
 </div>
 <div class="col" markdown="1">
 # Table of Contents
