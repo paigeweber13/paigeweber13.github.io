@@ -31,6 +31,7 @@ created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a
 portfolio to present to potential clients.
 
 ![Photos By Hipster](/resources/photosbyhipster-homepage.png)
+
 ## BYU Flowchart Tool
 At my former university, many departments would offer flowcharts for majors
 that showed the order in which courses needed to be taken. However, these
@@ -41,6 +42,7 @@ scraping the official BYU course catalog for information and generates a table.
 [Click here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/)
 or you can just [try it
 out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
+
 ## myCTL
 ![myCTL Home Page](/resources/site - Home Page.png)
 
