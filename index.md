@@ -33,13 +33,13 @@ portfolio to present to potential clients.
 ![Photos By Hipster](/resources/photosbyhipster-homepage.png)
 ## BYU Flowchart Tool
 At my former university, many departments would offer flowcharts for majors
-that showed the order in which courses needed to be taken. However useful these
-charts were, they were often horribly outdated. For a given list of classes,
-this app automatically determines what prerequisites each course has along with
-the courses that are made available upon completing that course. Scrapes
-official BYU course catalog for information and generates a table. [Click
-here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/) or you
-can just [try it
+that showed the order in which courses needed to be taken. However, these
+charts were often horribly outdated. For a given list of classes, this app
+automatically determines what prerequisites each course has along with the
+courses that are made available upon completing that course. It works by
+scraping the official BYU course catalog for information and generates a table.
+[Click here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/)
+or you can just [try it
 out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
 ## myCTL
 ![myCTL Home Page](/resources/site - Home Page.png)
@@ -50,10 +50,10 @@ department in managing employees. I entered the team after the project had
 already been published, but I helped extend the website for other departments
 to use. I worked on writing both backend and frontend components.
 Unfortunately, the code was quite messy, and I spent much of my time
-refactoring and cleaning up code, in addition to writing new features. I am not
-allowed to share the full source code for anything I produced at that job, but
-I am allowed to share screenshots of the website along with screenshots of key
-commit diffs I wrote. Following are some major contributions I made.
+refactoring and cleaning up code. I am not allowed to share the full source
+code for anything I produced at that job, but I am allowed to share screenshots
+of the website along with screenshots of key commit diffs I wrote. Following
+are some major contributions I made.
 
 ### Extending Hire and Termination Capabilities
 ![TC Hire Page](/resources/site - new employee form.png)
@@ -84,16 +84,16 @@ that the php script that handled file uploads only supported images of one
 aspect ratio. The people who had originally written the website had designed
 the php script so that it only handled images taken by a specific camera, as
 the HR department only used one camera for employee pictures up to that point.
-However, the Testing Center uploaded square pictures that got stretched by the
-php script. I made some changes so that the original aspect ratio of the image
-was preserved. [Here](/resources/code - preserve aspect ratio now.png) you can
-see the commit where I wrote the function 'resizeWithOriginalAspectRatio' that
-was used to handle the square images much more gracefully. [In this
-screenshot,](/resources/code - making upload_files handle transparency and
-stuff.png) you can see my final commit before my branch was merged. I made many
-small changes, such as converting all the images to jpg before saving them on
-our server. When this script was published, it handled jpeg, png, and gif
-images.
+However, the Testing Center uploaded pictures of another aspect ratio that got
+stretched by the php script. I made some changes so that the original aspect
+ratio of the image was preserved. [Here](/resources/code - preserve aspect
+ratio now.png) you can see the commit where I wrote the function
+'resizeWithOriginalAspectRatio' that was used to handle the square images much
+more gracefully. [In this screenshot,](/resources/code - making upload_files
+handle transparency and stuff.png) you can see my final commit before my branch
+was merged. I made many small changes, such as converting all the images to jpg
+before saving them on our server. When this script was published, it handled
+jpeg, png, and gif images.
 
 ### Semester Count Hotfix
 At the Testing Center, employee seniority is determined by the number of fall
