@@ -1,20 +1,23 @@
 ---
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous">
 
 ![Picture of Riley Weber](/resources/headshot_full.jpg){: .medium}
 
 # Bio
-I am a computer science student at the University of North Carolina at
-Charlotte with an emphasis in computer systems. My passions include classical
-computer science theory, computability, parallel computing, and backend
-development. I have experience working as a web developer, writing and
-classifying algorithms, implementing data structures, and parallelizing code. I
-have used C++ extensively in classroom settings and also have industry
-experience with Javascript, php, and mySQL. Currently I am interested in
-learning more about data science and programming closer to bare metal. In my
-spare time I fly model airplanes, listen to music, and 3D print new gadgets.
+I study computer science with an emphasis in computer systems at the University
+of North Carolina at Charlotte. My passions include classical computer science
+theory, computability, parallel computing, and backend development. I have
+experience working as a web developer, writing and classifying algorithms,
+implementing data structures, and parallelizing code. I have used C++
+extensively in classroom settings and also have industry experience with
+Javascript, php, and mySQL. Currently I am interested in learning more about
+data science and programming closer to bare metal. In my spare time I fly model
+airplanes, listen to music, and 3D print new gadgets.
 
 # Quick Links
 - [Work Samples](#work-samples)
@@ -23,7 +26,9 @@ spare time I fly model airplanes, listen to music, and 3D print new gadgets.
 
 # Work Samples
 ## Photos By Hipster
-During the year of 2017, I ran a small photography business. Using WordPress, I created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a portfolio to present to potential clients.
+During the year of 2017, I ran a small photography business. Using WordPress, I
+created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a
+portfolio to present to potential clients.
 
 ![Photos By Hipster](/resources/photosbyhipster-homepage.png)
 ## BYU Flowchart Tool
@@ -39,23 +44,56 @@ out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
 ## myCTL
 ![myCTL Home Page](/resources/site - Home Page.png)
 
-During the year of 2017, I was employed by Brigham Young University at the CTL (Center for Teaching and Learning) to write websites that assisted the HR department in managing employees. I entered the team after the project had already been published, but I helped extend the website for other departments to use. I worked on writing both backend and frontend components. Unfortunately, the code was quite messy, and I spent much of my time refactoring and cleaning up code, in addition to writing new features. I am not allowed to share the full source code for anything I produced at that job, but I am allowed to share screenshots of the website along with screenshots of key commit diffs I wrote. Following are some major contributions I made.
+During the year of 2017, I was employed by Brigham Young University at the CTL
+(Center for Teaching and Learning) to write websites that assisted the HR
+department in managing employees. I entered the team after the project had
+already been published, but I helped extend the website for other departments
+to use. I worked on writing both backend and frontend components.
+Unfortunately, the code was quite messy, and I spent much of my time
+refactoring and cleaning up code, in addition to writing new features. I am not
+allowed to share the full source code for anything I produced at that job, but
+I am allowed to share screenshots of the website along with screenshots of key
+commit diffs I wrote. Following are some major contributions I made.
 
 ### Extending Hire and Termination Capabilities
 ![TC Hire Page](/resources/site - new employee form.png)
 
-Soon after I was hired, we began extending the HR tools to work with another department, the Testing Center (TC). Because this department's requirements were much different than those at the CTL, we had to entirely rewrite the hire and termination modules in our app. I spearheaded this effort and wrote the majority of the code for both hire and termination functionality.
+Soon after I was hired, we began extending the HR tools to work with another
+department, the Testing Center (TC). Because this department's requirements
+were much different than those at the CTL, we had to entirely rewrite the hire
+and termination modules in our app. I spearheaded this effort and wrote the
+majority of the code for both hire and termination functionality.
 
 ![TC Terminate Page](/resources/site - termination.png)
 
-Unfortunately, releasing commit diffs for this work would require me to reveal the large parts of source code, which I have been asked not to do by my previous employer.
+Unfortunately, releasing commit diffs for this work would require me to reveal
+the large parts of source code, which I have been asked not to do by my
+previous employer.
 
 ![TC Self-Hire Page](/resources/site - temp self-registration.png)
 
-Transitioning from paper processes to our web application would have required the person in charge of hiring to enter every employee's information manually. In order to facilitate this process, I created a page where employees could hire themselves, thereby crowdsourcing this work. This page required the user to log in and then only allowed them to add information about themself.
+Transitioning from paper processes to our web application would have required
+the person in charge of hiring to enter every employee's information manually.
+In order to facilitate this process, I created a page where employees could
+hire themselves, thereby crowdsourcing this work. This page required the user
+to log in and then only allowed them to add information about themself.
 
 ### Improving Image Upload Script
-After publishing the improved hiring capabilities of our website, I discovered that the php script that handled file uploads only supported images of one aspect ratio. The people who had originally written the website had designed the php script so that it only handled images taken by a specific camera, as the HR department only used one camera for employee pictures up to that point. However, the Testing Center uploaded square pictures that got stretched by the php script. I made some changes so that the original aspect ratio of the image was preserved. [Here](/resources/code - preserve aspect ratio now.png) you can see the commit where I wrote the function 'resizeWithOriginalAspectRatio' that was used to handle the square images much more gracefully. [In this screenshot,](/resources/code - making upload_files handle transparency and stuff.png) you can see my final commit before my branch was merged. I made many small changes, such as converting all the images to jpg before saving them on our server. When this script was published, it handled jpeg, png, and gif images.
+After publishing the improved hiring capabilities of our website, I discovered
+that the php script that handled file uploads only supported images of one
+aspect ratio. The people who had originally written the website had designed
+the php script so that it only handled images taken by a specific camera, as
+the HR department only used one camera for employee pictures up to that point.
+However, the Testing Center uploaded square pictures that got stretched by the
+php script. I made some changes so that the original aspect ratio of the image
+was preserved. [Here](/resources/code - preserve aspect ratio now.png) you can
+see the commit where I wrote the function 'resizeWithOriginalAspectRatio' that
+was used to handle the square images much more gracefully. [In this
+screenshot,](/resources/code - making upload_files handle transparency and
+stuff.png) you can see my final commit before my branch was merged. I made many
+small changes, such as converting all the images to jpg before saving them on
+our server. When this script was published, it handled jpeg, png, and gif
+images.
 
 ### Semester Count Hotfix
 At the Testing Center, employee seniority is determined by the number of fall
