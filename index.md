@@ -6,7 +6,7 @@
       integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
       crossorigin="anonymous">
 
-![Picture of Riley Weber](/resources/headshot_full.jpg){: .medium}
+![Picture of Riley Weber](/resources/headshot_full.jpg)
 
 # Bio
 I study computer science with an emphasis in computer systems at the University
