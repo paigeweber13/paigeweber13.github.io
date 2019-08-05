@@ -20,7 +20,8 @@ and 3D print new gadgets.
 - [Current Work](#current-work)
 
 # Work Samples
-## Multi-part Print Cost
+## Personal Projects
+### Multi-part Print Cost
 There are many interesting things that can be 3d-printed but require more parts
 than can fit on a single build plate. It is useful to have a good estimate of
 how much this project would cost (in both time and money) before beginning it.
@@ -30,7 +31,7 @@ The interface:
 ![Interface screenshot](/resources/mpp-interface.png)
 
 The output:
-![Interface screenshot](/resources/mpp-interface.png)
+![Interface screenshot](/resources/mpp-output.png)
 
 Output was generated for [ericthepoolboy's model Toyota
 engine](https://www.thingiverse.com/thing:644933).
@@ -42,18 +43,11 @@ create a piece of software that was inuitive and easy in both installation and
 usage so that anyone with a basic understanding of how to use a computer would
 be able to use it.
 
-## BYU Flowchart Tool
-At my former university, many departments would offer flowcharts for majors
-that showed the order in which courses needed to be taken. However, these
-charts were often horribly outdated. For a given list of classes, this app
-automatically determines what prerequisites each course has along with the
-courses that are made available upon completing that course. It works by
-scraping the official BYU course catalog for information and generates a table.
-[Click here for more info,](https://rileyweber13.github.io/byu-prereq-crawler/)
-or you can just [try it
-out!](https://rileyweber13.github.io/byu-prereq-crawler/byu-prereq-crawler.html)
+### 19
+https://cerberuscuddles.itch.io/19
 
-## myCTL
+## Industry Experience
+### myCTL
 ![myCTL Home Page](/resources/site - Home Page.png)
 
 During the year of 2017, I was employed by Brigham Young University at the CTL
@@ -127,17 +121,13 @@ worked.png).
 The following repositories are currently my most active:
 - [exercism-progress](https://github.com/rileyweber13/exercism-progress): I am
   currently working through the python and c++ tracks on exercism to improve my
-  comfort with rapidly solving problems as I would in a technical interview.
-- [handwritten-digit-recognition](https://github.com/rileyweber13/handwritten-digit-recognition):
-  Here I am making my first foray into data science and machine learning! I
-  hope to use this as a jumping off point to learn more about genetic
-  algorithms, neural networks, and automation of mundane daily tasks.
-- [linux-distro-stats](https://github.com/rileyweber13/linux-distro-stats):
-  This project is currently on the backend but will serve as a real-world
-  problem where I can apply the data science skills I learn in a "full-stack"
-  project. I plan on visualizing data scraped from distrowatch and I hope to
-  find a way to apply machine learning to create a predictive model. Maybe I
-  can try to teach a computer to predict a review score based on the content of
-  the review?
+  comfort with rapidly solving problems as I would in a technical interview. In
+  order to explore different ways to approach a problem, I am also tackling
+  challenges in languages that have different paradigms, like haskell
+  (functional) and pharos smalltalk (pure object-oritented).
+- [multi-part-print-cost](https://github.com/rileyweber13/multi-part-print-cost):
+  There are several improvements I would like to make to this project before
+  moving on from it. I would like to make the output more readable and get the
+  print bed size programatically from the config files, for instance.
 
-<a class="btn btn-success" href="/#" role="button">Back to top</a>
+<a href="/#">Back to top</a>
