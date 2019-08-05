@@ -55,8 +55,8 @@ This was a unique experience for me, as I have almost no experience in game
 development and this is outside of the realm of my normal interests. I learned
 how difficult it can be to create physics that are believable but still allow
 for creative level design. I also gained valuable experience in a popular
-engine. The game is available for download [on
-itch.io](https://cerberuscuddles.itch.io/19), and the source code is available
+engine. The game is available for download on
+[itch.io](https://cerberuscuddles.itch.io/19), and the source code is available
 on [my github](https://github.com/rileyweber13/19).
 
 ## Industry Experience
