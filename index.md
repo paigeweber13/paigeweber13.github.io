@@ -4,28 +4,43 @@
 ![Picture of Riley Weber](/resources/headshot_full.jpg)
 
 # Bio
-I study computer science with an emphasis in computer systems at the University
-of North Carolina at Charlotte. My passions include classical computer science
-theory, computability, parallel computing, and backend development. I have
-experience working as a web developer, writing and classifying algorithms,
-implementing data structures, and parallelizing code. I have used C++
-extensively in classroom settings and also have industry experience with
-Javascript, php, and mySQL. Currently I am interested in learning more about
-data science and programming closer to bare metal. In my spare time I fly model
-airplanes, listen to music, and 3D print new gadgets.
+I am currently seeking a master's in computer science with an emphasis in
+computer systems at the University of North Carolina at Charlotte. My passions
+include classical computer science theory, computability, parallel computing,
+language theory, math, and backend development. I have experience working as a
+web developer, writing and classifying algorithms, implementing data structures,
+and parallelizing code. I have used C++ extensively in classroom settings and
+also have industry experience with Javascript, Angular, php, and mySQL.
+Currently I am interested in learning more about data science and programming
+closer to bare metal. In my spare time I fly model airplanes, listen to music,
+and 3D print new gadgets.
 
 # Quick Links
-- [Work Samples](#work-samples)
 - [Github Profile](https://github.com/rileyweber13)
 - [Current Work](#current-work)
 
 # Work Samples
-## Photos By Hipster
-During the year of 2017, I ran a small photography business. Using WordPress, I
-created [photosbyhipster.com](http://photosbyhipster.com/) in order to have a
-portfolio to present to potential clients.
+## Multi-part Print Cost
+There are many interesting things that can be 3d-printed but require more parts
+than can fit on a single build plate. It is useful to have a good estimate of
+how much this project would cost (in both time and money) before beginning it.
+Enter this program.
 
-![Photos By Hipster](/resources/photosbyhipster-homepage.png)
+The interface:
+![Interface screenshot](/resources/mpp-interface.png)
+
+The output:
+![Interface screenshot](/resources/mpp-interface.png)
+
+Output was generated for [ericthepoolboy's model Toyota
+engine](https://www.thingiverse.com/thing:644933).
+
+This project taught me to take advantage of pre-existing software (it uses
+PrusaSlicer on the backend), how to create robust CLIs and simple GUIs, how to
+deploy applications, and how to create software that is usable. My goal was to
+create a piece of software that was inuitive and easy in both installation and
+usage so that anyone with a basic understanding of how to use a computer would
+be able to use it.
 
 ## BYU Flowchart Tool
 At my former university, many departments would offer flowcharts for majors
