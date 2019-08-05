@@ -1,7 +1,7 @@
 ---
 ---
 
-![Picture of Riley Weber](/resources/headshot_full.jpg)
+![Picture of Riley Weber](/resources/headshot-full.jpg)
 
 # Bio
 I am currently seeking a master's in computer science with an emphasis in
@@ -61,7 +61,7 @@ on [my github](https://github.com/rileyweber13/19).
 
 ## Industry Experience
 ### myCTL
-![myCTL Home Page](/resources/site - Home Page.png)
+![myCTL Home Page](/resources/site/home-page.png)
 
 During the year of 2017, I was employed by Brigham Young University at the CTL
 (Center for Teaching and Learning) to write websites that assisted the HR
@@ -75,7 +75,7 @@ of the website along with screenshots of key commit diffs I wrote. Following
 are some major contributions I made.
 
 #### Extending Hire and Termination Capabilities
-![TC Hire Page](/resources/site - new employee form.png)
+![TC Hire Page](/resources/site/new-employee-form.png)
 
 Soon after I was hired, we began extending the HR tools to work with another
 department, the Testing Center (TC). Because this department's requirements
@@ -83,13 +83,13 @@ were much different than those at the CTL, we had to entirely rewrite the hire
 and termination modules in our app. I spearheaded this effort and wrote the
 majority of the code for both hire and termination functionality.
 
-![TC Terminate Page](/resources/site - termination.png)
+![TC Terminate Page](/resources/site/termination.png)
 
 Unfortunately, releasing commit diffs for this work would require me to reveal
 the large parts of source code, which I have been asked not to do by my
 previous employer.
 
-![TC Self-Hire Page](/resources/site - temp self-registration.png)
+![TC Self-Hire Page](/resources/site/temp-self-registration.png)
 
 Transitioning from paper processes to our web application would have required
 the person in charge of hiring to enter every employee's information manually.
@@ -100,35 +100,34 @@ to log in and then only allowed them to add information about themself.
 #### Improving Image Upload Script
 After publishing the improved hiring capabilities of our website, I discovered
 that the php script that handled file uploads only supported images of one
-aspect ratio. The people who had originally written the website had designed
-the php script so that it only handled images taken by a specific camera, as
-the HR department only used one camera for employee pictures up to that point.
-However, the Testing Center uploaded pictures of another aspect ratio that got
-stretched by the php script. I made some changes so that the original aspect
-ratio of the image was preserved. [Here](/resources/code - preserve aspect
-ratio now.png) you can see the commit where I wrote the function
-'resizeWithOriginalAspectRatio' that was used to handle the square images much
-more gracefully. [In this screenshot,](/resources/code - making upload_files
-handle transparency and stuff.png) you can see my final commit before my branch
-was merged. I made many small changes, such as converting all the images to jpg
-before saving them on our server. When this script was published, it handled
-jpeg, png, and gif images.
+aspect ratio. The people who had originally written the website had designed the
+php script so that it only handled images taken by a specific camera, as the HR
+department only used one camera for employee pictures up to that point. However,
+the Testing Center uploaded pictures of another aspect ratio that got stretched
+by the php script. I made some changes so that the original aspect ratio of the
+image was preserved. [Here](/resources/code/preserve-aspect-ratio-now.png) you
+can see the commit where I wrote the function 'resizeWithOriginalAspectRatio'
+that was used to handle the square images much more gracefully. [In this
+screenshot,]
+(/resources/code/making-upload-files-handle-transparency-and-stuff.png) you can
+see my final commit before my branch was merged. I made many small changes, such
+as converting all the images to jpg before saving them on our server. When this
+script was published, it handled jpeg, png, and gif images.
 
 #### Semester Count Hotfix
-At the Testing Center, employee seniority is determined by the number of fall
-or winter semesters the employee has worked, and the more senior an employee
-is, the earlier they will be able to register for shifts. This was done so that
+At the Testing Center, employee seniority is determined by the number of fall or
+winter semesters the employee has worked, and the more senior an employee is,
+the earlier they will be able to register for shifts. This was done so that
 those who have worked the longest have first choice of shifts. The day before
 registration was to open for new employees at the testing center, we discovered
 that the function that counted the number of semesters an employee has worked
-included spring and summer terms in its count, instead of only counting fall
-and winter semesters. The employee designated to make this change had to leave
-work before finding the bug, so I took over. In less than one hour, I
-discovered the bug, wrote a fix, and published it to our live website. Turns
-out whoever had written the code to count semesters had not written any code to
-differentiate between Fall/Winter and Spring/Summer semesters. What an
-oversight! My fix can be viewed [here](/resources/code - count semesters
-worked.png).
+included spring and summer terms in its count, instead of only counting fall and
+winter semesters. The employee designated to make this change had to leave work
+before finding the bug, so I took over. In less than one hour, I discovered the
+bug, wrote a fix, and published it to our live website. Turns out whoever had
+written the code to count semesters had not written any code to differentiate
+between Fall/Winter and Spring/Summer semesters. What an oversight! My fix can
+be viewed [here](/resources/code/count-semesters-worked.png).
 
 #### Takeaways
 My time at BYU allowed me to meet some incredibly kind programmers who walked me
