@@ -28,9 +28,11 @@ how much this project would cost (in both time and money) before beginning it.
 Enter this program.
 
 The interface:
+
 ![Interface screenshot](/resources/mpp-interface.png)
 
 The output:
+
 ![Interface screenshot](/resources/mpp-output.png)
 
 Source code is available
