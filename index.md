@@ -33,7 +33,9 @@ The interface:
 The output:
 ![Interface screenshot](/resources/mpp-output.png)
 
-Output was generated for [ericthepoolboy's model Toyota
+Source code is available
+[here](https://github.com/rileyweber13/multi-part-print-cost). Output was
+generated for [ericthepoolboy's model Toyota
 engine](https://www.thingiverse.com/thing:644933).
 
 This project taught me to take advantage of pre-existing software (it uses
@@ -44,7 +46,18 @@ usage so that anyone with a basic understanding of how to use a computer would
 be able to use it.
 
 ### 19
-https://cerberuscuddles.itch.io/19
+As part of the unofficial game grumps game jam of 2019, I created a platformer
+about mental illness.
+
+![Screenshot of gameplay for '19'](/resources/19-gameplay.png)
+
+This was a unique experience for me, as I have almost no experience in game
+development and this is outside of the realm of my normal interests. I learned
+how difficult it can be to create physics that are believable but still allow
+for creative level design. I also gained valuable experience in a popular
+engine. The game is available for download [on
+itch.io](https://cerberuscuddles.itch.io/19), and the source code is available
+on [my github](https://github.com/rileyweber13/19).
 
 ## Industry Experience
 ### myCTL
@@ -61,7 +74,7 @@ code for anything I produced at that job, but I am allowed to share screenshots
 of the website along with screenshots of key commit diffs I wrote. Following
 are some major contributions I made.
 
-### Extending Hire and Termination Capabilities
+#### Extending Hire and Termination Capabilities
 ![TC Hire Page](/resources/site - new employee form.png)
 
 Soon after I was hired, we began extending the HR tools to work with another
@@ -84,7 +97,7 @@ In order to facilitate this process, I created a page where employees could
 hire themselves, thereby crowdsourcing this work. This page required the user
 to log in and then only allowed them to add information about themself.
 
-### Improving Image Upload Script
+#### Improving Image Upload Script
 After publishing the improved hiring capabilities of our website, I discovered
 that the php script that handled file uploads only supported images of one
 aspect ratio. The people who had originally written the website had designed
@@ -101,7 +114,7 @@ was merged. I made many small changes, such as converting all the images to jpg
 before saving them on our server. When this script was published, it handled
 jpeg, png, and gif images.
 
-### Semester Count Hotfix
+#### Semester Count Hotfix
 At the Testing Center, employee seniority is determined by the number of fall
 or winter semesters the employee has worked, and the more senior an employee
 is, the earlier they will be able to register for shifts. This was done so that
@@ -116,6 +129,11 @@ out whoever had written the code to count semesters had not written any code to
 differentiate between Fall/Winter and Spring/Summer semesters. What an
 oversight! My fix can be viewed [here](/resources/code - count semesters
 worked.png).
+
+#### Takeaways
+My time at BYU allowed me to meet some incredibly kind programmers who walked me
+through every part of our technology stack. I learned immense amounts about
+databases, server maintenance, and all parts of web development.
 
 # Current Work
 The following repositories are currently my most active:
