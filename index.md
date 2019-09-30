@@ -8,15 +8,17 @@ I am currently seeking a master's in computer science with an emphasis in
 computer systems at the University of North Carolina at Charlotte. My passions
 include classical computer science theory, computability, parallel computing,
 language theory, math, and backend development. I have experience working as a
-web developer, writing and classifying algorithms, implementing data structures,
-and parallelizing code. I have used C++ extensively in classroom settings and
-also have industry experience with Javascript, Angular, php, and mySQL.
-Currently I am interested in learning more about data science and programming
-closer to bare metal. In my spare time I fly model airplanes, listen to music,
-and 3D print new gadgets.
+web developer, writing and classifying algorithms, implementing data
+structures, and parallelizing code. I have used C++ extensively in classroom
+settings and also have industry experience with web development technologies,
+RabbitMQ, and other IIoT technologies. Currently I am interested in learning
+more about data science and programming closer to bare metal. In my spare time
+I fly model airplanes, listen to music, and 3D print new gadgets.
 
 # Quick Links
+- [Resume](https://docs.google.com/document/d/1Wde58pML8avRpt0wy1YfuhjpCkTZgg2NPr_nnzURrgE/edit?usp=sharing)
 - [Github Profile](https://github.com/rileyweber13)
+- [LinkedIn Profile](https://www.linkedin.com/in/rileyweber13/)
 - [Current Work](#current-work)
 
 # Work Samples
@@ -138,6 +140,11 @@ databases, server maintenance, and all parts of web development.
 
 # Current Work
 The following repositories are currently my most active:
+- [Machine Learning in Super Mario
+  Kart](https://github.com/rileyweber13/super-mario-kart-ml-ai-comparison)
+  The term project for my graduate level machine learning course, this project
+  explores the performance of various machine learning-created ais in the game
+  Super Mario Kart.
 - [exercism-progress](https://github.com/rileyweber13/exercism-progress): I am
   currently working through the python and c++ tracks on exercism to improve my
   comfort with rapidly solving problems as I would in a technical interview. In
