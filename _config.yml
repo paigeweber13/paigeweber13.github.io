@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Riley Weber
 email: rileyw13@protonmail.com
-description: Backend Developer. Endlessly Curious.
+description: Performance Engineer. Endlessly Curious.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rileyweber13.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
