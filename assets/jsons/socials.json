@@ -1,17 +1,22 @@
 [
   {
-    "link": "https://github.com/yourprofile",
-    "title": "title1",
+    "link": "https://github.com/rileyweber13",
+    "title": "github",
     "service": "github"
   },
   {
-    "link": "https://www.linkedin.com/in/yourprofile",
-    "title": "title2",
+    "link": "https://www.linkedin.com/in/rileyweber13",
+    "title": "linkedin",
     "service": "linkedin"
   },
   {
-    "link": "https://www.facebook.com/yourprofile",
-    "title": "title3",
-    "service": "facebook"
+    "link": "assets/resume.pdf",
+    "title": "resume",
+    "service": "cv"
+  },
+  {
+    "link": "mailto:rileyw13@protonmail.com",
+    "title": "contact",
+    "service": "telegram"
   }
 ]
