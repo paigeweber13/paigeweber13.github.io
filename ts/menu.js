@@ -38,7 +38,7 @@ var Menu = /** @class */ (function () {
 var bodys = document.getElementsByClassName("main-body");
 var menu = new Menu();
 var singleBody;
-menu.addItem("about", "About me");
+menu.addItem("about", "About");
 menu.addItem("experience", "Experience");
 menu.addItem("projects", "projects");
 for (var _i = 0, bodys_1 = bodys; _i < bodys_1.length; _i++) {
