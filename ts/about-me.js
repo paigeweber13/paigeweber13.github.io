@@ -4,6 +4,7 @@ var PersonalDataUpdater = /** @class */ (function () {
     }
     PersonalDataUpdater.prototype.update = function () {
         this.updateName();
+        this.updateImage();
         this.updateMail();
         this.updateTel();
         this.updateAboutMe();
@@ -11,6 +12,10 @@ var PersonalDataUpdater = /** @class */ (function () {
     };
     PersonalDataUpdater.prototype.updateName = function () {
         PersonalDataUpdater.getAndUpdate("name", this.data.name);
+    };
+    PersonalDataUpdater.prototype.updateImage = function () {
+        var picture = document.getElementsByClassName("picture")[0];
+        picture.setAttribute("src", this.data.pictureUrl);
     };
     PersonalDataUpdater.prototype.updateMail = function () {
         PersonalDataUpdater.getAndUpdate("email", this.data.email);
