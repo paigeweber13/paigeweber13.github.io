@@ -1,20 +1,20 @@
 [
   {
-    "title": "Backend software developer",
-    "timeframe": "10.2018 - 01.2019",
-    "place": "company | Somewhere",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "Research Assistant",
+    "timeframe": "01.2020 - present",
+    "place": "UNC Charlotte | Charlotte, NC",
+    "description": "Riley Weber currently works under Dr. Erik Saule at the High Performance Computing Laboratory. In this position, she manages an individual project to create a custom profiling software using hardware counters (model-specific registers) with the goal of analyzing architecture performance on sparse graph problems. Weber uses intel intrinsics, OpenMP, and likwid-perfctr to benchmark desktop systems and compute clusters. While their are many examples of performance profiling software in existence already, this project sets itself apart with its ability to automatically visualize CPU architecture within the core, offering visual insight into how code maps to the architecture. This tool has applications both in the education sector as well as on the cutting edge of HPC research. All code written at this position is released under the GNUGPv3 license, available <a href=\"https://github.com/rileyweber13/fine-hardware-visualization\"> here</a>"
   },
   {
-    "title": "Intern frontend software developer",
-    "timeframe": "07.2018 - 09.2019",
-    "place": "company.git | Somewhere, Poland",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "IT Intern",
+    "timeframe": "05.2019 - 08.2019",
+    "place": "Sealed Air | Charlotte, NC",
+    "description": "Weber participated in an agile full-stack development team tasked with developing and maintaining an Industrial-IoT application used by factories in three countries. In addition to fixing bugs and adding features to this program, she automated the creation of data visualizations used in presentations for company executives. The data she helped present was used to guide decisions at the highest level of this fortune-500 company. While working hard to create value for Sealed Air in just 3 short months, she was able to gain valuable experience with Java, RabbitMQ, Python, R, and ThingWorx."
   },
   {
-    "title": "Motion graphic designer",
-    "timeframe": "06.2017 - 07.2017",
-    "place": "company.com | Elsewhere, UK",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "Computer Support Representative",
+    "timeframe": "01.2017 - 12.2017",
+    "place": "Brigham Young University | Provo, UT",
+    "description": "Working in the Center for Teaching and Learning at BYU, Weber juggled many responsibilities while working on a team of only 4 people. She managed the conversion of paper processes to web applications which affected two departments and approximately 110 employees. Due to the small size of the team, she was involved in every step of the development process, from design and management to writing features and fixing bugs. This work tasked her with quickly learning to read and understand a large existing codebase written using the LAMP stack. She also had to simultaneously maintain 50 servers that provided access to over 200 campus websites, provide frontline tech support for three departments, and analyze the needs of employees to recommend what new hardware should be purchased."
   }
 ]
