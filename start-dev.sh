@@ -5,4 +5,4 @@
 # absolutely necessary in order to test this portfolio, because it allows
 # chromium to access the local json files
 
-chromium --allow-file-access-from-files
+chromium --allow-file-access-from-files ./index.html
