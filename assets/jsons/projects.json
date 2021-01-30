@@ -1,14 +1,14 @@
 [
   {
-    "title": "some game I made",
-    "date": "03.2019 - 06.2019",
-    "imgUrl": "assets/img/myimage.gif",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "Boids in WebGL",
+    "date": "11.2020 - 12.2020",
+    "imgUrl": "assets/img/boids-webgl.png",
+    "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project prevent several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://rileyweber13.github.io/boids-webgl/'> here</a>."
   },
   {
-    "title": "another project I made",
-    "date": "03.2019 - 05.2019",
-    "imgUrl": "assets/img/anotherimage.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "More Projects Coming Soon!",
+    "date": "",
+    "imgUrl": "",
+    "description": ""
   }
 ]
