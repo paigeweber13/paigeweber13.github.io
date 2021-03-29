@@ -1,9 +1,15 @@
 [
   {
+    "title": "Fine Hardware Visualization",
+    "date": "01.2020 - present",
+    "imgUrl": "assets/img/fhv-example-output.png",
+    "description": "The focus of Weber's research with Dr. Saule was to develop a tool that would allow students and experienced programmers alike to develop a clearer picture of how their code maps to the hardware. Fine Hardware Visualization is the product of this work. During her time working on this project, Weber has gained valuable knowledge about profiling modern multicore processors. She learned how to leverage intel's model-specific registers to analyze performance, developed her ability to independently manage projects, gained valuable knowledge about prototyping and experimenting, and greatly improved her abilities as a C++ programmer."
+  },
+  {
     "title": "Boids in WebGL",
     "date": "11.2020 - 12.2020",
     "imgUrl": "assets/img/boids-webgl.png",
-    "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project prevent several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://paigeweber13.github.io/boids-webgl/'> here</a>."
+    "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project prevent several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://paigeweber13.github.io/boids-webgl/'>here</a>."
   },
   {
     "title": "More Projects Coming Soon!",
