@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Riley Weber | Portfolio</title>
+    <title>Paige Weber | Portfolio</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/main.css">
@@ -37,6 +37,7 @@
             </a>
         </div>
     </footer>
+
 </div>
 
 <script src="ts/file-handler.js"></script>
