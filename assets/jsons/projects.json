@@ -12,9 +12,33 @@
     "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project prevent several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://paigeweber13.github.io/boids-webgl/'>here</a>."
   },
   {
-    "title": "More Projects Coming Soon!",
+    "title": "Fast LU Decomposition",
+    "date": "11.2019 - 12.2019",
+    "imgUrl": "assets/img/fast-lu-decomposition-results.png",
+    "description": "In 2019, Weber attended a rare offering at UNCC: a high performance computing course taught by someone who had worked in the field. For her term project, Weber wrote an optimized implementation of LU decomposition, a common algorithm that allows the equation Ax = b to be computed in linear time for a given A. This project required modeling performance, writing an implementation, evaluating performance of that implementation, and then tuning it so that actual performance approached the expected performance. This problem turned out to be very difficult, but Weber did demonstrate speedup in larger matrices. She gained valuable knowledge about how C/C++ compilers generate code, why OpenMP schedules are important for performance, and how to model performance. If you'd like to see her work, [the repository is available here](https://github.com/paigeweber13/fast-lu-decomposition). Notable files include `src/lu_decomp.cpp` and `experiments/Experiment Analysis.pdf`."
+  },
+  {
+    "title": "CUDA Programming",
     "date": "",
     "imgUrl": "",
     "description": ""
+  },
+  {
+    "title": "Machine Learning with no API",
+    "date": "",
+    "imgUrl": "",
+    "description": ""
+  },
+  {
+    "title": "Fraktell",
+    "date": "",
+    "imgUrl": "",
+    "description": ""
+  },
+  {
+    "title": "Open Source Contributions",
+    "date": "",
+    "imgUrl": "",
+    "description": "List of my pull requests accepted into an open source project not owned by me: https://github.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaigeweber13+-user%3Apaigeweber13"
   }
 ]
