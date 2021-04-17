@@ -9,7 +9,7 @@
     "title": "Boids in WebGL",
     "date": "11.2020 - 12.2020",
     "imgUrl": "assets/img/boids-webgl.png",
-    "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project prevent several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://paigeweber13.github.io/boids-webgl/'>here</a>."
+    "description": "This project is an implementation of Craig Reynolds's \" Boids\" program written in plain Javascript and WebGL. Weber created this for a computer graphics class, working from the ground up with no API to work with. Even much of the linear algebra was written by her! Weber was able to use much of her skill in high-performance computing by optimizing away unnecessary copies in array addition and implementing a 3D grid system so that boids only look for neighbors among neighboring cells. This project presented several challenges, like trying to squeeze a reasonable amount of performance out of Javascript math. Additionally, tuning parameters ended up being incredibly difficult. In the future, Weber would like to explore WebGL compute shaders to speed up the distance calculation and improve performance. You can play with this program yourself by clicking <a href='https://paigeweber13.github.io/boids-webgl/'>here</a>."
   },
   {
     "title": "Fast LU Decomposition",
@@ -27,6 +27,6 @@
     "title": "Open Source Contributions",
     "date": "2.2018 - Present",
     "imgUrl": "assets/img/git-merge.png",
-    "description": "Weber frequently uses open-source software in her work and personal life. She believes in helping others and giving as much as one is able, so she contributes to repositories on github in her spare time. For some examples, see <a href='https://github.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaigeweber13+-user%3Apaigeweber13'>this list of accepted pull requests into repositories not owned by Weber.</a>"
+    "description": "Weber frequently uses open-source software in her work and personal life. She believes in helping others and giving as much as one is able, so she contributes to repositories on github in her spare time. In one case, Weber contributed by rewriting <a href='https://github.com/RRZE-HPC/likwid/pull/303'>two outdated examples in the likwid repository</a> from the ground up. In another, she improved the troubleshooting steps in the <a href='https://github.com/nicinabox/lets-split-guide/pull/28'>instructions for building a mechanical keyboard</a>."
   }
 ]
