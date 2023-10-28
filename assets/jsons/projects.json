@@ -1,7 +1,7 @@
 [
   {
     "title": "Fine Hardware Visualization",
-    "date": "01.2020 - present",
+    "date": "01.2020 - 06.2021",
     "imgUrl": "assets/img/fhv-example-output.png",
     "description": "The focus of Weber's research with Dr. Saule was to develop a tool that would allow students and experienced programmers alike to develop a clearer picture of how their code maps to the hardware. Fine Hardware Visualization is the product of this work. During her time working on this project, Weber has gained valuable knowledge about profiling modern multicore processors. They learned how to leverage intel's model-specific registers to analyze performance, developed her ability to independently manage projects, gained valuable knowledge about prototyping and experimenting, and greatly improved her abilities as a C++ programmer. The source code for this project is released under the GNUv3 license and is <a href='https://github.com/paigeweber13/fine-hardware-visualization'>available here</a>"
   },
