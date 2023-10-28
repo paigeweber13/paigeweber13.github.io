@@ -3,7 +3,7 @@
     "title": "Engineering Scientist",
     "timeframe": "09.2021 - 09.2023",
     "place": "UT Austin | Austin, TX",
-    "description": "Working to support complex requirements from many stakeholders, Weber doubled the performance of a mission-critical C++ message passing library. They added compatibility for approximately 10 new types in the SWIG python interface for this product, responding directly to the needs of python developers. This work was mostly C++ and Python, and the product provides real-time GPS data to the department of defense. Weber also had the opportunity to gain valuable DevOps experience. They managed the creation of GitLab continuous integration pipelines that used Docker to automate building, testing, code health report generation, and packaging for two high-priority applications."
+    "description": "Working to support complex requirements from many stakeholders, Weber doubled the performance of a mission-critical C++ message passing library. They added compatibility for approximately 10 new types in the SWIG python interface for this product, responding directly to the needs of python developers. This work developed a product that provides real-time GPS data to the department of defense. Weber also had the opportunity to gain valuable DevOps experience. They managed the creation of GitLab continuous integration pipelines that used Docker to automate building, testing, code health report generation, and packaging for two high-priority applications."
   },
   {
     "title": "Research Assistant",
